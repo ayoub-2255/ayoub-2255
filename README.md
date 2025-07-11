@@ -1,4 +1,9 @@
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Ayoub</h1>
+<h3 align="center">A passionate Full stack Dev from morocco</h3>
+
+- 🌱 I’m currently learning **React and Angular**
+
+- 👯 I’m looking to collaborate **on**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
